@@ -1,0 +1,15 @@
+Day-5
+Learn About Using Comments & Escape Characters
+✅ Using Comments : https://www.programiz.com/python-programming/comments
+✅ Using Escape Characters : https://www.freecodecamp.org/news/escape-sequences-python/
+✅ Using Separator Parameter : https://www.geeksforgeeks.org/python-sep-parameter-print/
+✅ Using End Parameter : https://www.geeksforgeeks.org/gfact-50-python-end-parameter-in-print/
+
+##Escape Sequence Characters:
+To insert characters that cannot be directly used in a string, we use an escape sequence characters.
+
+An escape sequence character is a backslash \ followed by the character you want to insert.
+
+An example of a character that cannot be directly used in string is a double quote inside a string that is surrounded by double quotes:
+print("This doesnt "execute")
+print("This will \" execute")
